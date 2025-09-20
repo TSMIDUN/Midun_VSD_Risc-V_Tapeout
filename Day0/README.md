@@ -24,7 +24,7 @@ I cloned the Yosys repository and installed all dependencies. Compiling took som
 ```bash
 yosys -V
 Result: Yosys ran perfectly and showed version 0.34 (as expected).
-✅ Ready for RTL synthesis tasks.
+✅ Ready for RTL synthesis tasks.'''
 
 ### 2. Icarus Verilog (iverilog)
 I installed Icarus Verilog via apt-get. Installation was quick and smooth.
