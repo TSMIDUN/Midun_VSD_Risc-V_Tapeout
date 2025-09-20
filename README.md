@@ -19,7 +19,7 @@ This repository documents my week-by-week progress with tasks inside each week.
 
 
 
-#🌟 Key Learnings from Week 0
+# 🌟 Key Learnings from Week 0
 
 This week was all about setting up my environment and getting familiar with the tools I’ll be using throughout the program. Here’s what I accomplished:
 
@@ -31,7 +31,7 @@ Prepared my system to be fully ready for upcoming experiments in the RTL → GDS
 
 Gained confidence in handling tool installations and troubleshooting minor issues along the way.
 
-#🙏 Acknowledgments
+# 🙏 Acknowledgments
 
 I’m grateful to Kunal Ghosh and the entire VLSI System Design (VSD) team for giving me the opportunity to participate in the RISC-V SoC Tapeout Program.
 
