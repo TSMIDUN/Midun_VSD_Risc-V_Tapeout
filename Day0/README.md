@@ -26,7 +26,7 @@ yosys -V
 Result: Yosys ran perfectly and showed version 0.34 (as expected).
 ✅ Ready for RTL synthesis tasks.
 
-2. Icarus Verilog (iverilog)
+### 2. Icarus Verilog (iverilog)
 I installed Icarus Verilog via apt-get. Installation was quick and smooth.
 Verification:<img width="782" height="572" alt="image" src="https://github.com/user-attachments/assets/4a4dc3ff-a418-40c9-bfb8-f09ab5087e8f" />
 
@@ -37,7 +37,7 @@ iverilog -V
 Result: Iverilog responded with the correct version.
 ✅ I can now simulate Verilog designs.
 
-3. GTKWave (Waveform Viewer)
+### 3. GTKWave (Waveform Viewer)
 GTKWave was installed successfully with apt. I opened a test waveform to check that it works.
 Verification:<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8b9b8597-bfed-49f8-aefd-927425e421e6" />
 <img width="783" height="139" alt="image" src="https://github.com/user-attachments/assets/ef2da4ad-003a-40b3-bcf7-376a7d9a614a" />
