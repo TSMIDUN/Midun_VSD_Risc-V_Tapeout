@@ -21,10 +21,10 @@ I checked that all the system requirements were met before starting the installa
 I cloned the Yosys repository and installed all dependencies. Compiling took some time (~15 minutes), but the build finished successfully.  
 **Verification:**  <img width="782" height="484" alt="yosys_img" src="https://github.com/user-attachments/assets/e925d101-0955-412f-ae69-c20b09bfa117" />
 
-```bash
+bash
 yosys -V
 Result: Yosys ran perfectly and showed version 0.34 (as expected).
-✅ Ready for RTL synthesis tasks.```
+✅ Ready for RTL synthesis tasks.
 
 ### 2. Icarus Verilog (iverilog)
 I installed Icarus Verilog via apt-get. Installation was quick and smooth.
