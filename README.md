@@ -19,7 +19,7 @@ This repository documents my week-by-week progress with tasks inside each week.
 
 
 
-# 🌟 Key Learnings from Week 0
+# 🌟 Key Learnings Untill Now
 
 This week was all about setting up my environment and getting familiar with the tools I’ll be using throughout the program. Here’s what I accomplished:
 
