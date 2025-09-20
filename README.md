@@ -14,4 +14,4 @@ This repository documents my week-by-week progress with tasks inside each week.
 
 | Day  | Topics Covered | Status |
 |---|---|---|
-| **Day 0** | [**Tools Installation**](Day0/README.md) | **Pending** |
+| **Day 0** | [**Tools Installation**](Day0/README.md) | **✅ Done** |
