@@ -15,7 +15,9 @@ This repository documents my week-by-week progress with tasks inside each week.
 | WEEK  | Topics Covered | Status |
 |---|---|---|
 | **WEEK 0** | [**Tools Installation**](Day0/README.md) | **✅ Done** |
-| **WEEK 1** | [**RTL Design Basics**](Day0/README.md) | **IN PROGRESS** |
+| **WEEK 1** | [**RTL Design Basics**](Week1_VSD_Tapeout
+/README.md
+) | **IN PROGRESS** |
 | **WEEK 2** | [**UPCOMING**](Day0/README.md) | **UPCOMING** |
 | **WEEK 3** | [**UPCOMING**](Day0/README.md) | **UPCOMING** |
 | **WEEK 4** | [**UPCOMING**](Day0/README.md) | **IUPCOMING** |
